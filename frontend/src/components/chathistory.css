@@ -1,0 +1,16 @@
+.chatMessage {
+  border-top: 2px solid black;
+  padding: 0%;
+}
+.chatMessage {
+  font-family: 'Lucida Console', 'Courier New', monospace;
+  font-size: 17px;
+  padding: 0%;
+  margin: 0%;
+}
+.ChatHistory div:nth-child(2n) {
+  background-color: gray;
+}
+.guessname {
+  font-weight: bold;
+}

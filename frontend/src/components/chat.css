@@ -1,0 +1,8 @@
+.chat {
+  position: relative;
+}
+.chatinput {
+  position: absolute;
+  bottom: 0;
+  width: 98%;
+}
